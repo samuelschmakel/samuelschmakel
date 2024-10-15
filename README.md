@@ -4,9 +4,9 @@
 With a background in engineering and chess, I bring a combination of technical prowess and strategic vision to bioinformatics challenges.
 
 ## Technical Skills
-- **Languages**: R, Python, SQL
-- **Command line tools**: bash, Linux, samtools, Bioconductor
-- **Tools & Platforms:**: Docker, git, GitHub, R-shiny
+- **Languages:** R, Python, SQL
+- **Command line tools:** bash, Linux, samtools, Bioconductor
+- **Tools & Platforms:** Docker, git, GitHub, R-shiny
 
 ## Professional Goals
 - **Career Development**: Focused on furthering my career in bioinformatics, specifically in roles that leverage my technical skills to build solutions.
@@ -14,7 +14,7 @@ With a background in engineering and chess, I bring a combination of technical p
 
 ## Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sam-schmakel/)
-- 📫 [Email]<samuel.schmakel@gmail.com>
+- 📫 <samuel.schmakel@gmail.com>
 
 <!--
 **samuelschmakel/samuelschmakel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
