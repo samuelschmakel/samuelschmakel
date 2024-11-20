@@ -8,6 +8,9 @@ With a background in engineering and chess, I bring a combination of technical p
 - **Command line tools:** bash, Linux, samtools, Bioconductor
 - **Tools & Platforms:** Docker, git, GitHub, R-shiny
 
+## Projects
+- **Nextflow RNA-seq workflow**: https://github.com/samuelschmakel/nextflow_rna_seq_workflow
+
 ## Professional Goals
 - **Career Development**: Focused on furthering my career in bioinformatics, specifically in roles that leverage my technical skills to build solutions.
 - **Continuous Learning**: Staying up to date with the latest advances in bioinformatics and advancing my coding abilities.
