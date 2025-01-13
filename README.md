@@ -10,6 +10,7 @@ With a background in engineering and chess, I bring a combination of technical p
 
 ## Projects
 - **Nextflow RNA-seq workflow**: https://github.com/samuelschmakel/nextflow_rna_seq_workflow
+- **Omics Figure Replication**: https://github.com/samuelschmakel/OmicsFigureReplication
 
 ## Professional Goals
 - **Career Development**: Focused on furthering my career in bioinformatics, specifically in roles that leverage my technical skills to build solutions.
